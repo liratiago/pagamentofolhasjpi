@@ -281,7 +281,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 735, 300)" id="gfx-cce2bee8-cea5-435c-8e7e-4c2ec85999d3" display="block" class="djs-element djs-shape" data-element-id="cce2bee8-cea5-435c-8e7e-4c2ec85999d3">
+    <g transform="matrix(1, 0, 0, 1, 735, 300)" id="gfx-5fa9a78d-ecfe-4d56-99f5-59bf7aabf83d" display="block" class="djs-element djs-shape" data-element-id="5fa9a78d-ecfe-4d56-99f5-59bf7aabf83d">
       <g class="djs-visual">
         <rect x="0" y="0" width="79" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="79" height="48" class="djs-svg-text">
@@ -298,15 +298,17 @@
       <g class="djs-visual">
         <g>
           <path d="M0 20 L20 40 L40 20 L20 0 z" stroke-width="1.8px" class="" style="fill:#FFFFCC;stroke:#A6A61D;" />
+          <polygon points="20,15.5 16.5,15.5 16.5,12 15.5,12 15.5,15.5 12,15.5 12,16.5 15.5,16.5 15.5,20 16.5,20 16.5,16.5 20,16.5 20,15.5" transform="translate(-16.8, -16.8) scale(2.3)" style="fill:#A6A61D;stroke:#A6A61D;" />
         </g>
       </g>
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 580, 263)" id="gfx-a72d2126-0951-4198-b768-2b6815840997" display="block" class="djs-element djs-shape" data-element-id="a72d2126-0951-4198-b768-2b6815840997">
+    <g transform="matrix(1, 0, 0, 1, 580, 260)" id="gfx-a72d2126-0951-4198-b768-2b6815840997" display="block" class="djs-element djs-shape" data-element-id="a72d2126-0951-4198-b768-2b6815840997">
       <g class="djs-visual">
         <g>
           <path d="M0 20 L20 40 L40 20 L20 0 z" stroke-width="1.8px" class="" style="fill:#FFFFCC;stroke:#A6A61D;" />
+          <polygon points="20,15.5 16.5,15.5 16.5,12 15.5,12 15.5,15.5 12,15.5 12,16.5 15.5,16.5 15.5,20 16.5,20 16.5,16.5 20,16.5 20,15.5" transform="translate(-16.8, -16.8) scale(2.3)" style="fill:#A6A61D;stroke:#A6A61D;" />
         </g>
       </g>
     </g>
@@ -479,7 +481,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M530 238 L594 238 C594 238 600 238 600 244 L600 263" marker-end="url(#arrowSecuenceFlow9ceb233e-1c78-4fbc-83ee-88388c5f1453)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M530 238 L594 238 C594 238 600 238 600 244 L600 260" marker-end="url(#arrowSecuenceFlow9ceb233e-1c78-4fbc-83ee-88388c5f1453)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -493,7 +495,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M540 328 L594 328 C594 328 600 328 600 322 L600 303" marker-end="url(#arrowSecuenceFlow6baee756-89d8-40f0-bd7e-3e0e96df4696)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M540 328 L594 328 C594 328 600 328 600 322 L600 300" marker-end="url(#arrowSecuenceFlow6baee756-89d8-40f0-bd7e-3e0e96df4696)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -577,7 +579,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M530 120 L594 120 C594 120 600 120 600 126 L600 263" marker-end="url(#arrowSecuenceFlow9ca9811f-7c42-4011-a37b-1d2e2eef359f)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M530 120 L594 120 C594 120 600 120 600 126 L600 260" marker-end="url(#arrowSecuenceFlow9ca9811f-7c42-4011-a37b-1d2e2eef359f)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -591,7 +593,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M620 283 L640 283" marker-end="url(#arrowSecuenceFlowfedc8a16-0fb0-4e86-983a-66a4026c5567)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M620 280 L630 280 L630 283 L640 283" marker-end="url(#arrowSecuenceFlowfedc8a16-0fb0-4e86-983a-66a4026c5567)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -605,7 +607,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M530 410 L594 410 C594 410 600 410 600 404 L600 303" marker-end="url(#arrowSecuenceFlow10c2cba3-e4c9-4db5-8773-3375eb5cf113)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M530 410 L594 410 C594 410 600 410 600 404 L600 300" marker-end="url(#arrowSecuenceFlow10c2cba3-e4c9-4db5-8773-3375eb5cf113)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -619,7 +621,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M530 490 L594 490 C594 490 600 490 600 484 L600 303" marker-end="url(#arrowSecuenceFlow28888e95-afca-4694-91ea-53f031a8f4c5)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M530 490 L594 490 C594 490 600 490 600 484 L600 300" marker-end="url(#arrowSecuenceFlow28888e95-afca-4694-91ea-53f031a8f4c5)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -633,7 +635,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M530 590 L594 590 C594 590 600 590 600 584 L600 303" marker-end="url(#arrowSecuenceFlowfba13602-f680-4b75-a3c5-32ef99dc4fb3)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M530 590 L594 590 C594 590 600 590 600 584 L600 300" marker-end="url(#arrowSecuenceFlowfba13602-f680-4b75-a3c5-32ef99dc4fb3)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
