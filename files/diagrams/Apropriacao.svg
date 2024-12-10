@@ -116,7 +116,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 440, 135)" id="gfx-4d4f3dfa-64b2-45ea-ac13-8af6b4573eb8" display="block" class="djs-element djs-shape" data-element-id="4d4f3dfa-64b2-45ea-ac13-8af6b4573eb8">
+    <g transform="matrix(1, 0, 0, 1, 440, 135)" id="gfx-01e3a3b0-2c11-4e5d-a9a0-34f6fa6c9b3d" display="block" class="djs-element djs-shape" data-element-id="01e3a3b0-2c11-4e5d-a9a0-34f6fa6c9b3d">
       <g class="djs-visual">
         <rect x="0" y="0" width="160" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="160" height="25" class="djs-svg-text">
@@ -214,6 +214,18 @@
     </g>
   </g>
   <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 358, 77)" id="gfx-461e725b-6921-4841-8e35-533ee713980a" display="block" class="djs-element djs-shape" data-element-id="461e725b-6921-4841-8e35-533ee713980a">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="104" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="104" height="48" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="10.81644" y="14.75">Se folha ordinária</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
     <g id="gfx-e6c4d2fd-9880-43bc-a283-75d2219ce1e6" display="block" class="djs-element djs-connection" data-element-id="e6c4d2fd-9880-43bc-a283-75d2219ce1e6">
       <g class="djs-visual">
         <g>
@@ -224,6 +236,18 @@
           </defs>
           <path d="M320 120 L320 204 C320 204 320 210 326 210 L480 210" marker-end="url(#arrowSecuenceFlowe6c4d2fd-9880-43bc-a283-75d2219ce1e6)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 360, 180)" id="gfx-5caf1473-9b31-436b-a6e3-77dc0ea4f22d" display="block" class="djs-element djs-shape" data-element-id="5caf1473-9b31-436b-a6e3-77dc0ea4f22d">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="90" height="25" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="27.31213" y="14.75">Se Gaju</tspan>
+          </text>
+        </svg>
       </g>
     </g>
   </g>
@@ -242,6 +266,18 @@
     </g>
   </g>
   <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 340, 300)" id="gfx-6b840009-5c2f-4229-9cf5-8e9dc7b2f841" display="block" class="djs-element djs-shape" data-element-id="6b840009-5c2f-4229-9cf5-8e9dc7b2f841">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="136" height="53" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <svg width="136" height="48" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="6.743225" y="14.75">Se Licença Compensatória</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
     <g id="gfx-50e30833-82a2-4979-978a-60e4cdd63be7" display="block" class="djs-element djs-connection" data-element-id="50e30833-82a2-4979-978a-60e4cdd63be7">
       <g class="djs-visual">
         <g>
@@ -256,6 +292,18 @@
     </g>
   </g>
   <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 340, 400)" id="gfx-99f05aa3-ae04-4624-87fc-9ae063e24e10" display="block" class="djs-element djs-shape" data-element-id="99f05aa3-ae04-4624-87fc-9ae063e24e10">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="109" height="53" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <svg width="109" height="48" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="10.61998" y="14.75">Se Setença Judicial</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
     <g id="gfx-60c5a777-6f45-4841-93a8-fbf31b9437e9" display="block" class="djs-element djs-connection" data-element-id="60c5a777-6f45-4841-93a8-fbf31b9437e9">
       <g class="djs-visual">
         <g>
@@ -266,6 +314,18 @@
           </defs>
           <path d="M320 120 L320 524 C320 524 320 530 326 530 L480 530" marker-end="url(#arrowSecuenceFlow60c5a777-6f45-4841-93a8-fbf31b9437e9)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 340, 500)" id="gfx-cb18639b-31ee-4bd6-a796-f52867ea6ac8" display="block" class="djs-element djs-shape" data-element-id="cb18639b-31ee-4bd6-a796-f52867ea6ac8">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="120" height="53" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <svg width="120" height="48" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="11.12628" y="14.75">Se Abono pecuniário</tspan>
+          </text>
+        </svg>
       </g>
     </g>
   </g>
