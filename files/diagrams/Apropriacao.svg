@@ -38,69 +38,6 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 480, 180)" id="gfx-a0c677b5-7f05-4bf8-a251-d48b24e03be0" display="block" class="djs-element djs-shape" data-element-id="a0c677b5-7f05-4bf8-a251-d48b24e03be0">
-      <g class="djs-visual">
-        <g>
-          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
-          <g />
-        </g>
-      </g>
-      <svg width="90" height="56" class="djs-svg-text">
-        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="17.99371" y="33.25">Folha GAJU</tspan>
-        </text>
-      </svg>
-    </g>
-  </g>
-  <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 480, 300)" id="gfx-0b3cc58a-2bc2-4834-9227-2aef79a1758f" display="block" class="djs-element djs-shape" data-element-id="0b3cc58a-2bc2-4834-9227-2aef79a1758f">
-      <g class="djs-visual">
-        <g>
-          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
-          <g />
-        </g>
-      </g>
-      <svg width="90" height="56" class="djs-svg-text">
-        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="9.966499" y="26.75">Folha Licenças </tspan>
-          <tspan x="7.171486" y="39.75">Compensatórias</tspan>
-        </text>
-      </svg>
-    </g>
-  </g>
-  <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 480, 400)" id="gfx-2baf3a7c-eec9-4a76-a74a-d7559953efe3" display="block" class="djs-element djs-shape" data-element-id="2baf3a7c-eec9-4a76-a74a-d7559953efe3">
-      <g class="djs-visual">
-        <g>
-          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
-          <g />
-        </g>
-      </g>
-      <svg width="90" height="56" class="djs-svg-text">
-        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="8.055626" y="26.75">Folha Sentença </tspan>
-          <tspan x="27.96032" y="39.75">Judicial</tspan>
-        </text>
-      </svg>
-    </g>
-  </g>
-  <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 480, 500)" id="gfx-07b173c2-a3be-4b24-8ac9-2ae68a8fada5" display="block" class="djs-element djs-shape" data-element-id="07b173c2-a3be-4b24-8ac9-2ae68a8fada5">
-      <g class="djs-visual">
-        <g>
-          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
-          <g />
-        </g>
-      </g>
-      <svg width="90" height="56" class="djs-svg-text">
-        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="13.61969" y="26.75">Folha Abono </tspan>
-          <tspan x="20.40758" y="39.75">pecuniário</tspan>
-        </text>
-      </svg>
-    </g>
-  </g>
-  <g class="djs-group">
     <g transform="matrix(1, 0, 0, 1, 480, 70)" id="gfx-d40352fb-e097-4a05-9991-ccf162006ffa" display="block" class="djs-element djs-shape" data-element-id="d40352fb-e097-4a05-9991-ccf162006ffa">
       <g class="djs-visual">
         <g>
@@ -116,12 +53,120 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 440, 135)" id="gfx-01e3a3b0-2c11-4e5d-a9a0-34f6fa6c9b3d" display="block" class="djs-element djs-shape" data-element-id="01e3a3b0-2c11-4e5d-a9a0-34f6fa6c9b3d">
+    <g transform="matrix(1, 0, 0, 1, 445, 138)" id="gfx-8a756e38-3436-40b9-a802-1455a6fff295" display="block" class="djs-element djs-shape" data-element-id="8a756e38-3436-40b9-a802-1455a6fff295">
       <g class="djs-visual">
         <rect x="0" y="0" width="160" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="160" height="25" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="14.7581" y="14.75">Apropriação Folha ordinária</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 480, 180)" id="gfx-a0c677b5-7f05-4bf8-a251-d48b24e03be0" display="block" class="djs-element djs-shape" data-element-id="a0c677b5-7f05-4bf8-a251-d48b24e03be0">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#EBF1DD;stroke:#9BA18D;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#EBF1DD;stroke:#9BA18D;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#EBF1DD;stroke:#9BA18D;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 440, 247)" id="gfx-839087d3-1763-4dd3-9581-23fad54addfc" display="block" class="djs-element djs-shape" data-element-id="839087d3-1763-4dd3-9581-23fad54addfc">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="160" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="160" height="25" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="22.81385" y="14.75">Apropriação Folha GAJU</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 480, 300)" id="gfx-0b3cc58a-2bc2-4834-9227-2aef79a1758f" display="block" class="djs-element djs-shape" data-element-id="0b3cc58a-2bc2-4834-9227-2aef79a1758f">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 403, 365)" id="gfx-6419a813-b5eb-4e36-8a9c-78562630945b" display="block" class="djs-element djs-shape" data-element-id="6419a813-b5eb-4e36-8a9c-78562630945b">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="235" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="235" height="25" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="14.45813" y="14.75">Apropriação Folha Licenças Compensatórias</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 480, 400)" id="gfx-2baf3a7c-eec9-4a76-a74a-d7559953efe3" display="block" class="djs-element djs-shape" data-element-id="2baf3a7c-eec9-4a76-a74a-d7559953efe3">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 384, 466)" id="gfx-051746da-ff7f-4772-b847-fb4419774b2c" display="block" class="djs-element djs-shape" data-element-id="051746da-ff7f-4772-b847-fb4419774b2c">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="256" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="256" height="25" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="43.83609" y="14.75">Apropriação Folha Sentença Judicial</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 480, 500)" id="gfx-07b173c2-a3be-4b24-8ac9-2ae68a8fada5" display="block" class="djs-element djs-shape" data-element-id="07b173c2-a3be-4b24-8ac9-2ae68a8fada5">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 351, 567)" id="gfx-c6b1d4f5-1fde-40fb-8035-a7b61a3c5f0f" display="block" class="djs-element djs-shape" data-element-id="c6b1d4f5-1fde-40fb-8035-a7b61a3c5f0f">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="297" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="297" height="25" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="62.69225" y="14.75">Apropriação Folha Abono Pecuniário</tspan>
           </text>
         </svg>
       </g>
@@ -214,7 +259,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 358, 77)" id="gfx-461e725b-6921-4841-8e35-533ee713980a" display="block" class="djs-element djs-shape" data-element-id="461e725b-6921-4841-8e35-533ee713980a">
+    <g transform="matrix(1, 0, 0, 1, 323, 77)" id="gfx-35e57d6b-291a-40d2-8350-c898cff1c85e" display="block" class="djs-element djs-shape" data-element-id="35e57d6b-291a-40d2-8350-c898cff1c85e">
       <g class="djs-visual">
         <rect x="0" y="0" width="104" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="104" height="48" class="djs-svg-text">
@@ -240,7 +285,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 360, 180)" id="gfx-5caf1473-9b31-436b-a6e3-77dc0ea4f22d" display="block" class="djs-element djs-shape" data-element-id="5caf1473-9b31-436b-a6e3-77dc0ea4f22d">
+    <g transform="matrix(1, 0, 0, 1, 360, 180)" id="gfx-b38aae5f-ca2b-4734-a65b-25cd38c750ad" display="block" class="djs-element djs-shape" data-element-id="b38aae5f-ca2b-4734-a65b-25cd38c750ad">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -266,9 +311,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 340, 300)" id="gfx-6b840009-5c2f-4229-9cf5-8e9dc7b2f841" display="block" class="djs-element djs-shape" data-element-id="6b840009-5c2f-4229-9cf5-8e9dc7b2f841">
+    <g transform="matrix(1, 0, 0, 1, 340, 300)" id="gfx-7989b673-9e16-4733-b807-fb2784479830" display="block" class="djs-element djs-shape" data-element-id="7989b673-9e16-4733-b807-fb2784479830">
       <g class="djs-visual">
-        <rect x="0" y="0" width="136" height="53" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="136" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="136" height="48" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="6.743225" y="14.75">Se Licença Compensatória</tspan>
@@ -292,12 +337,12 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 340, 400)" id="gfx-99f05aa3-ae04-4624-87fc-9ae063e24e10" display="block" class="djs-element djs-shape" data-element-id="99f05aa3-ae04-4624-87fc-9ae063e24e10">
+    <g transform="matrix(1, 0, 0, 1, 340, 400)" id="gfx-833d864d-b0a1-49a4-81a9-2f9cc95765ab" display="block" class="djs-element djs-shape" data-element-id="833d864d-b0a1-49a4-81a9-2f9cc95765ab">
       <g class="djs-visual">
-        <rect x="0" y="0" width="109" height="53" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="109" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="109" height="48" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-            <tspan x="10.61998" y="14.75">Se Setença Judicial</tspan>
+            <tspan x="7.61496" y="14.75">Se Sentença Judicial</tspan>
           </text>
         </svg>
       </g>
@@ -318,9 +363,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 340, 500)" id="gfx-cb18639b-31ee-4bd6-a796-f52867ea6ac8" display="block" class="djs-element djs-shape" data-element-id="cb18639b-31ee-4bd6-a796-f52867ea6ac8">
+    <g transform="matrix(1, 0, 0, 1, 340, 500)" id="gfx-65bbec14-6978-46e2-b89d-7c1f9e654e5c" display="block" class="djs-element djs-shape" data-element-id="65bbec14-6978-46e2-b89d-7c1f9e654e5c">
       <g class="djs-visual">
-        <rect x="0" y="0" width="120" height="53" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="120" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="120" height="48" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="11.12628" y="14.75">Se Abono pecuniário</tspan>
